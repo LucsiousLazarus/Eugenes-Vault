@@ -34,4 +34,4 @@ This project is licensed under the terms of the [MIT license](LICENSE.md).
 
 ## Contact
 
-If you have questions or feedback, feel free to [open an issue](https://github.com/username/Eugenes-Vault/issues/new) on this repository.
+If you have questions or feedback, feel free to [open an issue](https://github.com/LucsiousLazarus/Eugenes-Vault/issues/new) on this repository.
