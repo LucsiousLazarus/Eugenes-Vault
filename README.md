@@ -1,4 +1,4 @@
-# Eugenes-Vault
+# Eugenes-Vault v1.0
 
 ![Badge](https://img.shields.io/badge/Open%20Source-%F0%9F%94%AE-green)
 
