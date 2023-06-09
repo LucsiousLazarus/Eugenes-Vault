@@ -30,7 +30,7 @@ Eugene's Vault is an open-source project, and contributions are always welcome. 
 
 ## License
 
-This project is licensed under the terms of the [MIT license](LICENSE.md).
+This project is licensed under the terms of the [MIT license](https://github.com/LucsiousLazarus/Eugenes-Vault/blob/main/LICENSE).
 
 ## Contact
 
